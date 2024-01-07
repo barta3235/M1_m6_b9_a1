@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main, header{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.newyearposter{
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url("../resources/Banner\ Image.png") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 16px;
+    display: block;
+}
+
+.small-title{
+    text-align: center;
+    padding-top: 177px;
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+    padding-bottom: 0px;
+}
+
+.large-title{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 177px;
+}
