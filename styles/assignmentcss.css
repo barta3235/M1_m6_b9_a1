@@ -201,7 +201,7 @@ main, header{
 .section4-container{
     display: flex;
     align-items: center;
-    gap: 70px;
+    gap: 67px;
 }
 
 .section4-left-text1{
@@ -232,10 +232,14 @@ main, header{
     margin-top: 0px;
 }
 
+.section4-center{
+    margin-left: 0px;
+}
+
 .section4-center>img{
     border-radius: 463px;
     border: 15px solid #F00;
-    padding: 49px;
+    padding: 39px;
 }
 
 
@@ -246,7 +250,8 @@ main, header{
     font-style: normal;
     font-weight: 700;
     margin-bottom: 16px;
-    margin-top: 120px;
+    margin-top: 122px;
+    margin-left: 40px;
 }
 
 .section4-right-text2{
@@ -257,7 +262,12 @@ main, header{
     font-weight: 400;
     line-height: 32px; 
     margin-top: 0px;
-    margin-bottom: 43px;
+    margin-bottom: 39px;
+    margin-left: 40px;
+}
+
+.section4-right>img{
+    margin-left: 40px;
 }
 
 
