@@ -315,9 +315,64 @@ main, header{
 }
 
 
+
+
+
+
 /* section 6 starts */
 
 
+
+
+
+
+
+
+
+/* section 7 starts */
+
+.section7{
+    background-color: aqua;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 120px;
+}
+
+.section7-title1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.section7-title2{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 22px;
+}
+
+.section7-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin-top: 0px;
+    margin-bottom: 48px;
+}
+
+.section7-image-container img{
+    width: 31.5%;
+    display: inline-block;
+    padding: 10px;
+}
 
 
 
