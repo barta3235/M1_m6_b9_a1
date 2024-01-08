@@ -460,3 +460,93 @@ main, header{
 
 /* footer starts from here */
 
+.footer{
+    background-color: #070211;
+
+    ;
+}
+
+.topfooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 120px;
+    padding-left: 140px;
+    padding-right: 140px;
+    margin-bottom: 50px;
+}
+
+.topleft{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+}
+
+.topright{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+    
+}
+
+.topright a{
+    text-decoration: none;
+    list-style: none;
+    color: #FFF;
+}
+
+.footericons{
+    padding-right: 16px;
+}
+
+#hrone{
+    background: rgba(255, 255, 255, 0.15);
+    margin-bottom: 48px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#hrtwo{
+    background: rgba(255, 255, 255, 0.15);
+    margin-top: 48px;
+    margin-bottom: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.centerfooter{
+    text-align: center;
+}
+
+.centerfooter img{
+    padding-right:  24px;
+}
+
+.bottomfooter{
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 120px;
+    padding-left: 140px;
+    padding-right: 140px;
+    justify-content: space-between;
+}
+
+.bottomfooter-left, .bottomfooter-right{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.bottomfooter-right{
+   background-color: #070211;
+   border: 0;
+}
+
