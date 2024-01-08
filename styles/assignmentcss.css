@@ -270,6 +270,13 @@ main, header{
     margin-left: 40px;
 }
 
+.zoom{
+    transition: transform 0.3s ease-in-out;
+}
+.zoom:hover{
+    transform: scale(1.1);
+}
+
 
 
 
