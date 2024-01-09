@@ -287,7 +287,7 @@ main, header{
     margin-left: 140px;
     margin-right: 140px;
     /* margin-bottom: 64px; */
-    margin-bottom: 185px;
+    margin-bottom: 488px;
     text-align: center;
 }
 
@@ -323,38 +323,41 @@ main, header{
 }
 
 
+/* section 6 starts confusions!!!!!!!!!!!*/  
 
 
-
-
-/* section 6 starts confusions!!!!!!!!!!!*/   
 .section6{
     margin-bottom: 120px;
     margin-left: 140px;
     margin-right: 140px;
 }
-
 .section6-container{
     position: relative;
 }
 
+.rectangle{
+    position: absolute;
+    bottom: 0px;
+}
+
 .mohila{
     position: absolute;
-    margin-left: 810px;
-    margin-top: -433px;
+    top: -433px;
+    right: 0px;
+}
+
+.purushkar{
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: -310px;
 }
 
 .discount{
     position: absolute;
-    margin-left: 645px;
+    top: -350px;
+    left: 650px;
     z-index: 1;
-    margin-top: -370px;
-}
-
-.purushkar{
- position: relative;
- margin-bottom: -200px;
- z-index: 1;  
 }
 
 
